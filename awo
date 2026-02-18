@@ -1,0 +1,5 @@
+     {
+       "servers": [
+         { "name": "Avatar World Private", "host": "sv.avatarz.pro", "port": 19128 }
+       ]
+     }
